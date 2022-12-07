@@ -30,3 +30,4 @@ with open(file_path) as file:
 print(counter)
 print(outcome)
 # nou dat was deel 1 maar ik moet dat hele kut ding omgooien voor deel 2 ofzo dus die werk ik er gewoon wel in ipv eronder hahaHAAA
+# deel 2 zit er voor nu niet in maar ik heb geen zin om t nu ff de gaan hardocden
